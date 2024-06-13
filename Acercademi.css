@@ -1,0 +1,155 @@
+* {
+    box-sizing: border-box;
+  }
+  body {
+    font-size: 14px;
+  }
+  .v15_2 {
+    width: 100%;
+    height: 3000px;
+    background: rgba(255,255,255,1);
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    overflow: hidden;
+  }
+  .v15_3 {
+    width: 100%;
+    height: 703px;
+    background: url("fondo1ciudad.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    overflow: hidden;
+  }
+  .v15_4 {
+    width: 100%;
+    height: 600px;
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    overflow: hidden;
+  }
+  .v15_5 {
+    width: 234px;
+    height: 207px;
+    background: url("Yo.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 496px;
+    left: 603px;
+    border-radius: 50%;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  }
+  .v15_6 {
+    width: 194px;
+    color: rgba(255,255,255,1);
+    position: absolute;
+    top: 20px;
+    left: 1114px;
+    font-family: Inter;
+    font-weight: Regular;
+    font-size: 40px;
+    opacity: 1;
+    text-align: center;
+  }
+  .v15_7 {
+    width: 766px;
+    height: 797px;
+    opacity: 1;
+    position: absolute;
+    top: 20px;
+    left: 285px;
+    overflow: hidden;
+  }
+  .v15_9 {
+    width: 545px;
+    color: rgba(255,255,255,1);
+    position: absolute;
+    top: 0px;
+    left: 221px;
+    font-family: Inter;
+    font-weight: Regular;
+    font-size: 40px;
+    opacity: 1;
+    text-align: center;
+  }
+  .v15_10 {
+    width: 198px;
+    color: rgba(255,255,255,1);
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    font-family: Inter;
+    font-weight: Regular;
+    font-size: 40px;
+    opacity: 1;
+    text-align: center;
+  }
+  .v15_11 {
+    width: 226px;
+    color: rgba(0,0,0,1);
+    position: absolute;
+    top: 731px;
+    left: 279px;
+    font-family: Inter;
+    font-weight: Regular;
+    font-size: 40px;
+    opacity: 1;
+    text-align: left;
+  }
+  .v15_18 {
+    width: 100%;
+    height: 315px;
+    background: rgba(217,217,217,1);
+    opacity: 1;
+    position: absolute;
+    top: 3685px;
+    left: 0px;
+    overflow: hidden;
+  }
+  .v15_21 {
+    width: 112px;
+    height: 134px;
+    background: url("casa.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 21px;
+    overflow: hidden;
+  }
+  .v15_46 {
+    width: 100%;
+    height: 100%;
+    background: rgba(217,217,217,1);
+    opacity: 1;
+    position: absolute;
+    top: 874px;
+    left: 0px;
+    overflow: hidden;
+  }
+  .v15_47 {
+    width: 100%;
+    color: rgba(0,0,0,1);
+    position: absolute;
+    top: 949px;
+    left: 98px;
+    font-family: Inter;
+    font-weight: Regular;
+    font-size: 96px;
+    opacity: 1;
+    text-align: left;
+  }
+  
